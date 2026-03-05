@@ -49,7 +49,7 @@ const Projects = () => {
       category: "ai",
       github:
         "https://github.com/likithsurya23/Image_Inpainting_Using_GAN",
-      demo: "https://image-inpaint.vercel.app",
+      demo: "https://image-inpainting-using-gan.vercel.app",
       featured: true,
       image: ganImage,
     },
